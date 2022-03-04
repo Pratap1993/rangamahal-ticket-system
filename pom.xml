@@ -9,7 +9,7 @@
 		<version>2.2.6.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.hashedin</groupId>
+	<groupId>com.chagu</groupId>
 	<artifactId>rangmahal</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Rangmahal Booking System</name>
